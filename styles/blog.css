@@ -1,3 +1,19 @@
-<title>external css</title>
-<link rel ="style sheet"hret=styles/blog.css>
-<h1 style = text-align:center;
+p{
+    color-scheme: blue;
+    background-color: azure;
+    font-style: italic;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+h{
+    color: rgb(182, 99, 39);
+    font-size: larger;
+    font-size-adjust: inherit;
+}
+img{
+    scale: 20px;;
+}
+li{
+    color: darkcyan;
+    font-style:  ;
+}
